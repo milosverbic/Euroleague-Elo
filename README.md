@@ -15,3 +15,5 @@ This model can be used to predict a team’s chances of winning any specific gam
 `graph_distribution.py` is used to graph each team’s chance of finishing the season at any position, based on the results stored in `pos_(number of games played).csv`. The number of games played is determined by the number of games in `playedGames.csv`.
 
 If the game data in `playedGames.csv` and `upcomingGames.csv` is outdated, either delete both files or run `save_game_data.py` to update it.
+
+![graph](Round 26 distribution.png)
