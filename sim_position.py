@@ -176,7 +176,7 @@ except FileNotFoundError:
     posCount = {t: {i: 0 for i in range(18)} for t in teams}
     
 
-#sim(10000)
+sim(10000)
 
 
 posCountDF = pd.DataFrame.from_dict(posCount)
