@@ -16,4 +16,4 @@ This model can be used to predict a team’s chances of winning any specific gam
 
 If the game data in `playedGames.csv` and `upcomingGames.csv` is outdated, either delete both files or run `save_game_data.py` to update it.
 
-![distribution graph](Euroleague-Elo/Round 26 distribution.png)
+![Euroleague-Elo/Round 26 distribution.png](https://github.com/milosverbic/Euroleague-Elo/blob/main/Round%2026%20distribution.png)
